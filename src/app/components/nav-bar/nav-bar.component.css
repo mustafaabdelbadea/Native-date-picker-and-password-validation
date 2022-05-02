@@ -1,0 +1,12 @@
+.haeder{
+    min-height: 6vh;
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #5655b9;
+}
